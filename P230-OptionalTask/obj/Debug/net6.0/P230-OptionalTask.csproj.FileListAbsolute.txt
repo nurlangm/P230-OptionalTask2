@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\bin\Debug\net6.0\P230-OptionalTask.exe
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\bin\Debug\net6.0\P230-OptionalTask.deps.json
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\bin\Debug\net6.0\P230-OptionalTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\bin\Debug\net6.0\P230-OptionalTask.dll
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\bin\Debug\net6.0\P230-OptionalTask.pdb
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.dll
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\refint\P230-OptionalTask.dll
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.pdb
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\P230-OptionalTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\P230\P230-OptionalTask\P230-OptionalTask\obj\Debug\net6.0\ref\P230-OptionalTask.dll
